@@ -6,7 +6,7 @@ This repository is a place for me to keep all the images and details of the item
 
 Go to this [link](https://github.com/ExperimentsInHonesty/movingsale/issues).  Any issue that is open, means the item is still forsale
 
-#### Terms
+### Terms
 Cash only. No electronic payments, Money orders or Cashiers checks. 
 
 ### How to receive an item
