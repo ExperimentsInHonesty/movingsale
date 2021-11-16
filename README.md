@@ -1,6 +1,6 @@
-# Project title and description
+# Moving Sale
 
-This repository is a place for me to keep all the images and details of the items I am selling
+This repository is a place for me to keep all the images and details of the items I am selling.  I list most things on craigslist but might try other sites (ebaby, facebook marketplace, etc.)
 
 ### How to see my items
 
